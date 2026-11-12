@@ -1,0 +1,30 @@
+name: Fetch free-license images
+on:
+  push:
+    paths: ["fetch-list.txt"]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download listed images
+        run: |
+          # each line: <target path> <url>
+          while read -r path url; do
+            [ -z "$path" ] && continue
+            case "$path" in \#*) continue;; esac
+            mkdir -p "$(dirname "$path")"
+            curl -sSfL -A "SeoulSpoonBlog/1.0 (judekim.blog@gmail.com)" -o "$path" "$url"
+            echo "fetched $path"
+          done < fetch-list.txt
+          : > fetch-list.txt
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Fetch free-license images" || echo "nothing to commit"
+          git push
