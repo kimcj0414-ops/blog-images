@@ -1,8 +1,0 @@
-food/kimchi/baechu.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Baechu-gimchi.jpg/1280px-Baechu-gimchi.jpg
-food/kimchi/kkakdugi.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Korea-Sokcho-Kkakdugi-Radish_kimchi-01.jpg/1280px-Korea-Sokcho-Kkakdugi-Radish_kimchi-01.jpg
-food/kimchi/dongchimi.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Korean-Dongchimi-01.jpg/1280px-Korean-Dongchimi-01.jpg
-food/kimchi/oisobagi.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Oi-sobagi.jpg/1280px-Oi-sobagi.jpg
-food/kimchi/chonggak.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Korean_cuisine-Chonggak_kimchi-01.jpg/1280px-Korean_cuisine-Chonggak_kimchi-01.jpg
-food/kimchi/baek.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Triple_White_Kimchi_04.jpg/1280px-Triple_White_Kimchi_04.jpg
-food/kimchi/pa.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Pa-gimchi_%28cropped%29.jpg/1280px-Pa-gimchi_%28cropped%29.jpg
-food/kimchi/salted-cabbage.jpg https://upload.wikimedia.org/wikipedia/commons/f/ff/Korean_cuisine-Salted_baechu-01.jpg
