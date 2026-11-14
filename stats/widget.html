@@ -1,0 +1,24 @@
+<style>#Stats1{display:none!important}#jk-visits{text-align:right;font-size:11px;opacity:.6;padding:4px 16px 12px;font-family:inherit}</style>
+<script>
+(function(){
+  function run(){
+    var src=[].map.call(document.scripts,function(s){return s.textContent}).join('\n');
+    var m=src.match(/'statsUrl':\s*'([^']+)'/); if(!m) return;
+    var url=m[1].replace(/\\x3d/g,'=').replace(/\\x26/g,'&');
+    var host=location.hostname;
+    var dayNY=new Intl.DateTimeFormat('en-CA',{timeZone:'America/New_York'}).format(new Date());
+    Promise.all([
+      fetch(url).then(function(r){return r.json()}),
+      fetch('https://raw.githubusercontent.com/kimcj0414-ops/blog-images/main/stats/baseline.json?d='+dayNY).then(function(r){return r.ok?r.json():null}).catch(function(){return null})
+    ]).then(function(res){
+      var total=Number(res[0].total), b=res[1], today=null;
+      if(b&&b.date===dayNY&&b.totals&&b.totals[host]!=null){today=Math.max(0,total-b.totals[host]);}
+      var el=document.createElement('div'); el.id='jk-visits';
+      el.textContent=(today!=null?'Today: '+today.toLocaleString('en-US')+'  ·  ':'')+'Total: '+total.toLocaleString('en-US');
+      var f=document.getElementById('footer')||document.querySelector('footer')||document.body;
+      f.appendChild(el);
+    }).catch(function(){});
+  }
+  if(document.readyState==='loading'){document.addEventListener('DOMContentLoaded',run);}else{run();}
+})();
+</script>
