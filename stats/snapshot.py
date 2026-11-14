@@ -21,7 +21,7 @@ BLOGS = [
     "korealifemanual.blogspot.com",
 ]
 PATH = os.path.join(os.path.dirname(__file__), "baseline.json")
-UA = {"User-Agent": "Mozilla/5.0 (stats snapshot)"}
+UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36", "Accept-Language": "en-US,en;q=0.9", "Accept": "text/html,application/json"}
 
 
 def get(url):
