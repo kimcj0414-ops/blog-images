@@ -13,14 +13,22 @@ jobs:
       - name: Download listed images
         run: |
           # each line: <target path> <url>
+          # Be polite to Wikimedia (it answers 429 when asked too fast): wait between files,
+          # retry with back-off, and keep any line that still fails for the next run.
+          : > failed.txt
           while read -r path url; do
             [ -z "$path" ] && continue
             case "$path" in \#*) continue;; esac
             mkdir -p "$(dirname "$path")"
-            curl -sSfL -A "SeoulSpoonBlog/1.0 (judekim.blog@gmail.com)" -o "$path" "$url"
-            echo "fetched $path"
+            ok=0
+            for wait in 3 10 30; do
+              if curl -sSfL --retry 2 --retry-delay 5 -A "SeoulSpoonBlog/1.0 (judekim.blog@gmail.com)" -o "$path" "$url"; then ok=1; break; fi
+              sleep $wait
+            done
+            if [ $ok = 1 ]; then echo "fetched $path"; else echo "FAILED $path"; rm -f "$path"; echo "$path $url" >> failed.txt; fi
+            sleep 2
           done < fetch-list.txt
-          : > fetch-list.txt
+          mv failed.txt fetch-list.txt
       - name: Commit
         run: |
           git config user.name "github-actions[bot]"
