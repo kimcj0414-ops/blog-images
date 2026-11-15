@@ -1,0 +1,52 @@
+{
+ "00.jpg": {
+  "title": "Korean fried chicken 3.jpg",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "artist": "bryan...",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 853,
+  "used": false
+ },
+ "01.jpg": {
+  "title": "Korean fried chicken 5.jpg",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0/",
+  "artist": "insatiablemunch",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 853,
+  "used": false
+ },
+ "03.jpg": {
+  "title": "Korean fried chicken 240206.jpg",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "artist": "Startandstar",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 719,
+  "used": false
+ },
+ "04.jpg": {
+  "title": "Yangnyeom Chicken Korean fried chicken.jpg",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "artist": "Startandstar",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 719,
+  "used": false
+ },
+ "07.jpg": {
+  "title": "Korean fried chicken in Korea.jpg",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "artist": "Startandstar",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 800,
+  "used": false
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "00.jpg": {
+  "title": "Korean soup-Miyeokguk-01.jpg",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0/",
+  "artist": "karendotcom127",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 960,
+  "used": false
+ },
+ "02.jpg": {
+  "title": "2016년 5월 31일 한국 요리 DSC01430.jpg",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "artist": "최광모 (Choe Kwangmo)",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 853,
+  "used": false
+ },
+ "03.jpg": {
+  "title": "Miyeok-guk.jpg",
+  "license": "CC BY-SA 2.0 kr",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0/kr/",
+  "artist": "국립국어원",
+  "source": "Wikimedia Commons",
+  "width": 1100,
+  "height": 831,
+  "used": false
+ },
+ "07.jpg": {
+  "title": "So-gogi-miyeok-guk 2.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "artist": "대경라이프",
+  "source": "Wikimedia Commons",
+  "width": 945,
+  "height": 629,
+  "used": false
+ }
+}

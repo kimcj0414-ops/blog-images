@@ -2,7 +2,7 @@
  "01.jpg": {
   "title": "Ramyeon and kimchi.jpg",
   "license": "CC BY 2.0",
-  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0/",
   "artist": "Hyeon-Jeong Suk",
   "source": "Wikimedia Commons",
   "width": 1280,
@@ -12,7 +12,7 @@
  "02.jpg": {
   "title": "Ramyeon 1.jpg",
   "license": "CC BY-SA 2.0",
-  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
   "artist": "stu_spivack",
   "source": "Wikimedia Commons",
   "width": 1280,
@@ -22,7 +22,7 @@
  "04.jpg": {
   "title": "Ramyeon with baechu-gimchi.jpg",
   "license": "CC BY-SA 4.0",
-  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
   "artist": "대경라이프",
   "source": "Wikimedia Commons",
   "width": 945,
@@ -32,7 +32,7 @@
  "06.jpg": {
   "title": "Ramyeon 2.jpg",
   "license": "CC BY-SA 4.0",
-  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
   "artist": "대경라이프",
   "source": "Wikimedia Commons",
   "width": 945,

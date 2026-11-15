@@ -1,0 +1,22 @@
+{
+ "03.jpg": {
+  "title": "Gochujang-bulgogi 1.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "artist": "대경라이프",
+  "source": "Wikimedia Commons",
+  "width": 945,
+  "height": 629,
+  "used": false
+ },
+ "05.jpg": {
+  "title": "Dipping bollak-hoe in doenjang and cho-gochujang mixture.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "artist": "대경라이프",
+  "source": "Wikimedia Commons",
+  "width": 945,
+  "height": 629,
+  "used": false
+ }
+}

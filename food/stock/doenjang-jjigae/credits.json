@@ -1,0 +1,52 @@
+{
+ "01.jpg": {
+  "title": "Korean cuisine-Doenjang jjigae and banchan.jpg",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0/",
+  "artist": "egg (Hong, Yun Seon)",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 857,
+  "used": false
+ },
+ "04.jpg": {
+  "title": "Korean stew-Doenjang jjigae-01.jpg",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "artist": "Alpha",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 960,
+  "used": false
+ },
+ "05.jpg": {
+  "title": "Doenjang-jjigae.jpg",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "artist": "jyleen21",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 854,
+  "used": false
+ },
+ "06.jpg": {
+  "title": "Doenjang-jjigae 3.jpg",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "artist": "이동원",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 853,
+  "used": false
+ },
+ "07.jpg": {
+  "title": "Doenjang-jjigae 4.jpg",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "artist": "이동원",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 853,
+  "used": false
+ }
+}

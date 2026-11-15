@@ -1,0 +1,42 @@
+{
+ "00.jpg": {
+  "title": "Korean snack-Hotteok-01.jpg",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0/",
+  "artist": "yearofeats",
+  "source": "Wikimedia Commons",
+  "width": 1024,
+  "height": 768,
+  "used": false
+ },
+ "01.jpg": {
+  "title": "Hotteokfilling.jpg",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0/",
+  "artist": "keizie / 정희 강 from Seoul, Korea",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 960,
+  "used": false
+ },
+ "03.jpg": {
+  "title": "Hotteok.jpg",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "artist": "Korea.net / Korean Culture and Information Service",
+  "source": "Wikimedia Commons",
+  "width": 1000,
+  "height": 667,
+  "used": false
+ },
+ "06.jpg": {
+  "title": "Hotteok 2.jpg",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0/",
+  "artist": "Sandra Vallaure",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 848,
+  "used": false
+ }
+}

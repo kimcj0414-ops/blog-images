@@ -1,0 +1,42 @@
+{
+ "00.jpg": {
+  "title": "Korean.cuisine-Samgyeopsal-01.jpg",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0/",
+  "artist": "hellochris",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 960,
+  "used": false
+ },
+ "03.jpg": {
+  "title": "Samgyeopsal (pork belly).jpg",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "artist": "idkjm123",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 852,
+  "used": false
+ },
+ "05.jpg": {
+  "title": "Samgyeopsal-gui.jpg",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "artist": "jinsoo jang",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 853,
+  "used": false
+ },
+ "07.jpg": {
+  "title": "Samgyeopsal table.jpg",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "artist": "이동원",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 853,
+  "used": false
+ }
+}

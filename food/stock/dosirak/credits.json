@@ -1,0 +1,22 @@
+{
+ "03.jpg": {
+  "title": "Dosirak.jpg",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "artist": "Sharon Ang",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 853,
+  "used": false
+ },
+ "05.jpg": {
+  "title": "Convenience store dosirak.jpg",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "artist": "JunHyun Cho",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 720,
+  "used": false
+ }
+}

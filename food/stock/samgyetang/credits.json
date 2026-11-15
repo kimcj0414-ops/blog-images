@@ -1,0 +1,42 @@
+{
+ "00.jpg": {
+  "title": "Ginseng Chicken Soup.jpg",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "artist": "Korea.net / Korean Culture and Information Service",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 850,
+  "used": false
+ },
+ "01.jpg": {
+  "title": "KOCIS Korea Malbok Samgyetang 03 (9493375058).jpg",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "artist": "Korea.net / Korean Culture and Information Service (Jeon Han)",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 816,
+  "used": false
+ },
+ "02.jpg": {
+  "title": "Samgye-tang 2.jpg",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "artist": "wizdata",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 1033,
+  "used": false
+ },
+ "04.jpg": {
+  "title": "Samgyetang Chicken Ginseng Soup.jpg",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "artist": "Charles Haynes",
+  "source": "Wikimedia Commons",
+  "width": 1024,
+  "height": 683,
+  "used": false
+ }
+}

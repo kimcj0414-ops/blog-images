@@ -1,0 +1,52 @@
+{
+ "00.jpg": {
+  "title": "Kimchi fried rice with cheese.jpg",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0/",
+  "artist": "L. W. Yang",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 960,
+  "used": false
+ },
+ "02.jpg": {
+  "title": "Caramelized kimchi fried rice (8573504752).jpg",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0/",
+  "artist": "jeffreyw",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 848,
+  "used": false
+ },
+ "03.jpg": {
+  "title": "Kimchi fried rice.jpg",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "artist": "Sharon Ang",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 853,
+  "used": false
+ },
+ "04.jpg": {
+  "title": "Kimchi-bokkeum-bap.jpg",
+  "license": "CC BY-SA 2.0 kr",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0/kr/",
+  "artist": "국립국어원",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 853,
+  "used": false
+ },
+ "07.jpg": {
+  "title": "Kimchi fried rice 1.jpg",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0/",
+  "artist": "Stacy Spensley",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 853,
+  "used": false
+ }
+}
