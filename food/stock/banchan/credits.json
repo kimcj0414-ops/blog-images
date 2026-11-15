@@ -1,0 +1,42 @@
+{
+ "00.jpg": {
+  "title": "Banchans.jpg",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "artist": "stuart spivack (a flickr user)",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 960,
+  "used": false
+ },
+ "02.jpg": {
+  "title": "Banchan in a traditional market.jpg",
+  "license": "CC0",
+  "license_url": null,
+  "artist": "Ulrich Walder",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 720,
+  "used": false
+ },
+ "03.jpg": {
+  "title": "Banchan 2.jpg",
+  "license": "CC0",
+  "license_url": null,
+  "artist": "ijs",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 856,
+  "used": false
+ },
+ "09.jpg": {
+  "title": "Korean side dishes (3992416396).jpg",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "artist": "Matt @ PEK from Taipei, Taiwan",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 960,
+  "used": false
+ }
+}
