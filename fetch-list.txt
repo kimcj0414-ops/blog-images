@@ -1,0 +1,6 @@
+food/_cand/drinking/00.jpg https://commons.wikimedia.org/wiki/Special:FilePath/Makgeolri.jpg?width=1280
+food/_cand/drinking/01.jpg https://commons.wikimedia.org/wiki/Special:FilePath/Korean_rice_wine_Makgeori01.jpg?width=1280
+kbd/_cand/makeup/00.jpg https://commons.wikimedia.org/wiki/Special:FilePath/Eye_Makeup_Palette_and_Brush_Kit.jpg?width=1280
+kbd/_cand/makeup/01.jpg https://commons.wikimedia.org/wiki/Special:FilePath/Eyeshadow_Palette_%26_Eyeshadow_Brushes_-_50922168141.jpg?width=1280
+kbd/_cand/makeup/03.jpg https://commons.wikimedia.org/wiki/Special:FilePath/Make_Up_Brushes_%26_Eyeshadow_Palette_-_50888047576.jpg?width=1280
+kbd/_cand/makeup/05.jpg https://commons.wikimedia.org/wiki/Special:FilePath/Eyeshadow_Brushes_and_Eyeshadow_Palette_%28White_Background%29_-_50922168986.jpg?width=1280
