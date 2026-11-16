@@ -1,0 +1,32 @@
+{
+ "00.jpg": {
+  "title": "Seoul Station Building 1925 front 20240219.jpg",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "artist": "Sean Young (@assanges)",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 964,
+  "used": false
+ },
+ "05.jpg": {
+  "title": "Seoul Station Square 20240219 02.jpg",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "artist": "Sean Young (@assanges)",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 964,
+  "used": false
+ },
+ "06.jpg": {
+  "title": "Seoul Station, Seoul, South Korea - night view 2023-03-31.jpg",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0/",
+  "artist": "Sharon Hahn Darlin",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 829,
+  "used": false
+ }
+}

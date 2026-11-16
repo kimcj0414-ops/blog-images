@@ -1,0 +1,32 @@
+{
+ "02.jpg": {
+  "title": "KTX-Cheongryong Waiting at Seoul Station.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "artist": "생각하는 나무",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 1109,
+  "used": false
+ },
+ "04.jpg": {
+  "title": "KTX-I with door opened in Seoul Station.jpg",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0/",
+  "artist": "Luke Ma",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 854,
+  "used": false
+ },
+ "06.jpg": {
+  "title": "KTX high speed rail.jpg",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0/",
+  "artist": "LWYang",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 849,
+  "used": false
+ }
+}

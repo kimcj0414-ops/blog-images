@@ -1,0 +1,42 @@
+{
+ "00.jpg": {
+  "title": "N Seoul Tower view 2.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "artist": "kallerna",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 696,
+  "used": false
+ },
+ "01.jpg": {
+  "title": "Namsan Tower sunset, Seoul.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "artist": "Rtflakfizer",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 956,
+  "used": false
+ },
+ "02.jpg": {
+  "title": "Namsan Tower, Seoul - Namsan2299.jpg",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "artist": "lumoplank",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 1707,
+  "used": false
+ },
+ "04.jpg": {
+  "title": "Namsan Seoul Tower (49174492933).jpg",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "artist": "Matt Kieffer",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 1920,
+  "used": false
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "00.jpg": {
+  "title": "Taxi Cab in South Korea.jpg",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "artist": "Joshua T. Garcia",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 1707,
+  "used": false
+ },
+ "04.jpg": {
+  "title": "Seoul centre 010.JPG",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "artist": "Piotrus",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 960,
+  "used": false
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "00.jpg": {
+  "title": "Makgeolri.jpg",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5/",
+  "artist": "OpenCage",
+  "source": "Wikimedia Commons",
+  "width": 1000,
+  "height": 1000,
+  "used": false
+ },
+ "01.jpg": {
+  "title": "Korean rice wine Makgeori01.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "artist": "Mar del Este",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 720,
+  "used": false
+ }
+}

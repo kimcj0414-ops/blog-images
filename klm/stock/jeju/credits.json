@@ -1,0 +1,42 @@
+{
+ "01.jpg": {
+  "title": "Seongsan, Jeju Island.jpg",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "artist": "Bernard Gagnon",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 720,
+  "used": false
+ },
+ "02.jpg": {
+  "title": "Seongsan-ri town at blue hour seen from Seongsan Ilchulbong volcano Jeju Island South Korea.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "artist": "Basile Morin",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 800,
+  "used": false
+ },
+ "04.jpg": {
+  "title": "Jeju Island 성산공원 Seongsan Ilchilbong.jpg",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "artist": "Rjblaze93",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 720,
+  "used": false
+ },
+ "06.jpg": {
+  "title": "Seongsan Ilchulbong, Jeju Island.jpg",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0/",
+  "artist": "Justin De La Ornellas",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 851,
+  "used": false
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "03.jpg": {
+  "title": "Leaves in street.jpg",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0/",
+  "artist": "kr revi",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 960,
+  "used": false
+ },
+ "07.jpg": {
+  "title": "Yangjaecheon Stream Dukbang-gil path 2016 05.jpg",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "artist": "Jeon Han/Republic of Korea",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 787,
+  "used": false
+ }
+}

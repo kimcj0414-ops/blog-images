@@ -1,0 +1,42 @@
+{
+ "00.jpg": {
+  "title": "Incheon International Airport Terminal 1 Departure.jpg",
+  "license": "CC BY-SA 3.0 de",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/",
+  "artist": "Arne Müseler",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 853,
+  "used": false
+ },
+ "02.jpg": {
+  "title": "Incheon International Airport Terminal 1 Arrival 3.jpg",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "artist": "ノボホショコロトソ",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 960,
+  "used": false
+ },
+ "03.jpg": {
+  "title": "Incheon International Airport Terminal 1 Arrival 2.jpg",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "artist": "ノボホショコロトソ",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 960,
+  "used": false
+ },
+ "07.jpg": {
+  "title": "Incheon International Airport Terminal 1 Arrival.jpg",
+  "license": "CC BY-SA 3.0 de",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/",
+  "artist": "Arne Müseler",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 853,
+  "used": false
+ }
+}

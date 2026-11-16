@@ -1,0 +1,32 @@
+{
+ "00.jpg": {
+  "title": "Cherry Blossom in Yeouido Festival.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "artist": "AnbyG",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 1920,
+  "used": false
+ },
+ "02.jpg": {
+  "title": "Cherry Blossom in Yeouido Park - panoramio.jpg",
+  "license": "CC BY 3.0",
+  "license_url": "https://creativecommons.org/licenses/by/3.0/",
+  "artist": "Alexey Komarov",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 853,
+  "used": false
+ },
+ "03.jpg": {
+  "title": "Cherry Blossom in Yeouido Park - panoramio (2).jpg",
+  "license": "CC BY 3.0",
+  "license_url": "https://creativecommons.org/licenses/by/3.0/",
+  "artist": "Alexey Komarov",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 854,
+  "used": false
+ }
+}

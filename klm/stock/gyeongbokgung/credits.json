@@ -1,0 +1,42 @@
+{
+ "00.jpg": {
+  "title": "Gyeonghoeru (Royal Banquet Hall) at Gyeongbokgung Palace, Seoul.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "artist": "Frank Schulenburg",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 853,
+  "used": false
+ },
+ "03.jpg": {
+  "title": "Water reflection of Hyangwonjeong Pavilion at Gyeongbokgung Palace in Seoul.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "artist": "Basile Morin",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 1920,
+  "used": false
+ },
+ "04.jpg": {
+  "title": "Front view of the Imperial Throne Hall Geunjeongjeon at Gyeongbokgung Palace with blue sky in Seoul.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "artist": "Basile Morin",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 720,
+  "used": false
+ },
+ "07.jpg": {
+  "title": "Hyangwonjeong Pavilion and Chwihyanggyo Bridge at Gyeongbokgung Palace with blue sky in Seoul.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "artist": "Basile Morin",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 761,
+  "used": false
+ }
+}

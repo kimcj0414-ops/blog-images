@@ -1,0 +1,32 @@
+{
+ "00.jpg": {
+  "title": "Insadong-gil.jpg",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "artist": "Adbar",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 1777,
+  "used": false
+ },
+ "01.jpg": {
+  "title": "Insadong-gil Mar 2025 05.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "artist": "Epicgenius",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 1707,
+  "used": false
+ },
+ "03.jpg": {
+  "title": "Insadong-gil Mar 2025 03.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "artist": "Epicgenius",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 960,
+  "used": false
+ }
+}

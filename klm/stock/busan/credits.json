@@ -1,0 +1,32 @@
+{
+ "00.jpg": {
+  "title": "Haeundae Beach in Busan.jpg",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0/",
+  "artist": "StephNurnberg",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 740,
+  "used": false
+ },
+ "02.jpg": {
+  "title": "Haeundae Beach Night View.jpg",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0/",
+  "artist": "Weli'mi'nakwan",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 960,
+  "used": false
+ },
+ "04.jpg": {
+  "title": "Haeundae Beach 20200522 005.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "artist": "Mobius6",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 853,
+  "used": false
+ }
+}

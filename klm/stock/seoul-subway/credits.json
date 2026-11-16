@@ -1,0 +1,42 @@
+{
+ "00.jpg": {
+  "title": "Seoul-Metropolitan-Rapid-Transit-5-gimpo-station-platform.jpg",
+  "license": "CC BY 2.5",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/",
+  "artist": "LERK",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 960,
+  "used": false
+ },
+ "01.jpg": {
+  "title": "Seoul-Metropolitan-Rapid-Transit-7-Ttukseom-resort-station-platform.jpg",
+  "license": "CC BY 2.5",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/",
+  "artist": "LERK",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 960,
+  "used": false
+ },
+ "05.jpg": {
+  "title": "KwangwoonUniv-pf1.jpg",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "artist": "Cocapepper",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 622,
+  "used": false
+ },
+ "06.jpg": {
+  "title": "Nogyang-pf.jpg",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "artist": "Cocapepper",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 622,
+  "used": false
+ }
+}
