@@ -1,6 +1,0 @@
-klm/_blur/myeongdong/02.jpg https://commons.wikimedia.org/wiki/Special:FilePath/Seoul-Myeongdong-02.jpg?width=1600
-klm/_blur/myeongdong/03.jpg https://commons.wikimedia.org/wiki/Special:FilePath/Seoul-Myeongdong-03.jpg?width=1600
-klm/_blur/myeongdong/06.jpg https://commons.wikimedia.org/wiki/Special:FilePath/Myeongdong_night_market_seoul_4.jpg?width=1600
-klm/_blur/hongdae/00.jpg https://commons.wikimedia.org/wiki/Special:FilePath/Street_hongdae_Seoul.jpg?width=1600
-klm/_blur/insadong/05.jpg https://commons.wikimedia.org/wiki/Special:FilePath/Insadong-gil_Mar_2025_12.jpg?width=1600
-kbd/_blur/cosmetics/05.jpg https://commons.wikimedia.org/wiki/Special:FilePath/K-Beauty_Expo_Korea.jpg?width=1600
