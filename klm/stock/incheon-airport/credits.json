@@ -17,7 +17,7 @@
   "source": "Wikimedia Commons",
   "width": 1280,
   "height": 960,
-  "used": false
+  "used": true
  },
  "03.jpg": {
   "title": "Incheon International Airport Terminal 1 Arrival 2.jpg",
@@ -37,6 +37,6 @@
   "source": "Wikimedia Commons",
   "width": 1280,
   "height": 853,
-  "used": false
+  "used": true
  }
 }
