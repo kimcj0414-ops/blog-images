@@ -1,0 +1,22 @@
+{
+ "00.jpg": {
+  "title": "Wide view of Nowon-gu Apartment buildings.jpg",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "artist": "Ox1997cow",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 576,
+  "used": false
+ },
+ "01.jpg": {
+  "title": "Daechi Dongbo Centreville Apartment Complex 1.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "artist": "kallerna",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 843,
+  "used": false
+ }
+}
