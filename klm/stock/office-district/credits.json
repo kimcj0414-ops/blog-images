@@ -8,5 +8,15 @@
   "width": 1280,
   "height": 815,
   "used": false
+ },
+ "01.jpg": {
+  "title": "Yeouido 4.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "artist": "kallerna",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 859,
+  "used": false
  }
 }
