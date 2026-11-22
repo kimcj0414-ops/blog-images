@@ -1,4 +1,0 @@
-klm/stock/suneung/00.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/A_scantron_pen_and_a_mechanical_pencil_for_The_South_Korea_College_Scholastic_Ability_Test%2C_2018.jpg/1280px-A_scantron_pen_and_a_mechanical_pencil_for_The_South_Korea_College_Scholastic_Ability_Test%2C_2018.jpg
-klm/stock/apartments/00.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Wide_view_of_Nowon-gu_Apartment_buildings.jpg/1280px-Wide_view_of_Nowon-gu_Apartment_buildings.jpg
-klm/stock/apartments/01.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Daechi_Dongbo_Centreville_Apartment_Complex_1.jpg/1280px-Daechi_Dongbo_Centreville_Apartment_Complex_1.jpg
-klm/stock/kimjang/00.jpg https://upload.wikimedia.org/wikipedia/commons/f/ff/Korean_cuisine-Salted_baechu-01.jpg
