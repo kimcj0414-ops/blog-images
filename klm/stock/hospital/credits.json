@@ -1,0 +1,22 @@
+{
+ "00.jpg": {
+  "title": "Seoul Medical Center.JPG",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "artist": "hyolee2",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 960,
+  "used": false
+ },
+ "01.jpg": {
+  "title": "Seoul Red Cross Hospital.JPG",
+  "license": "Public domain",
+  "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+  "artist": "Abasaa",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 960,
+  "used": false
+ }
+}

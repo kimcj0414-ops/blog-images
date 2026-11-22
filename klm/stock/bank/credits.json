@@ -1,0 +1,22 @@
+{
+ "00.jpg": {
+  "title": "ATM Hyosung Seoul.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "artist": "Lofor",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 1707,
+  "used": false
+ },
+ "01.jpg": {
+  "title": "Woori Bank Gupo Branch.JPG",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "artist": "hyolee2",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 774,
+  "used": false
+ }
+}

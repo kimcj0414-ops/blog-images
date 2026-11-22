@@ -1,0 +1,22 @@
+{
+ "01.jpg": {
+  "title": "Jeju community food waste disposal bins.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "artist": "Sgroey",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 960,
+  "used": false
+ },
+ "02.jpg": {
+  "title": "Q18919 Food trash box B01.jpg",
+  "license": "CC BY 2.0 KR",
+  "license_url": "https://creativecommons.org/licenses/by/2.0/kr/",
+  "artist": "revi",
+  "source": "Wikimedia Commons",
+  "width": 1280,
+  "height": 960,
+  "used": false
+ }
+}
