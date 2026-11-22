@@ -1,0 +1,11 @@
+klm/stock/trash-recycling/00.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Soju_bottles_in_a_glass_recycling_bin%2C_near_apartment_complex%2C_in_Korea.jpg/1280px-Soju_bottles_in_a_glass_recycling_bin%2C_near_apartment_complex%2C_in_Korea.jpg
+klm/stock/trash-recycling/01.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Jeju_community_food_waste_disposal_bins.jpg/1280px-Jeju_community_food_waste_disposal_bins.jpg
+klm/stock/trash-recycling/02.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Q18919_Food_trash_box_B01.jpg/1280px-Q18919_Food_trash_box_B01.jpg
+klm/stock/immigration-office/00.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Ansan_foreigner_immigration_service_interior_01.jpg/1280px-Ansan_foreigner_immigration_service_interior_01.jpg
+klm/stock/immigration-office/01.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Ansan_foreigner_immigration_service_interior_02.jpg/1280px-Ansan_foreigner_immigration_service_interior_02.jpg
+klm/stock/hospital/00.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Seoul_Medical_Center.JPG/1280px-Seoul_Medical_Center.JPG
+klm/stock/hospital/01.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Seoul_Red_Cross_Hospital.JPG/1280px-Seoul_Red_Cross_Hospital.JPG
+klm/stock/bank/00.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/ATM_Hyosung_Seoul.jpg/1280px-ATM_Hyosung_Seoul.jpg
+klm/stock/bank/01.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Woori_Bank_Gupo_Branch.JPG/1280px-Woori_Bank_Gupo_Branch.JPG
+klm/stock/office-district/00.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Gangnam_from_Yeoksam_1.jpg/1280px-Gangnam_from_Yeoksam_1.jpg
+klm/stock/office-district/01.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Yeouido_4.jpg/1280px-Yeouido_4.jpg
