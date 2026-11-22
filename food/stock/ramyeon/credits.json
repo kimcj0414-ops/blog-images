@@ -7,7 +7,7 @@
   "source": "Wikimedia Commons",
   "width": 1280,
   "height": 1920,
-  "used": false
+  "used": true
  },
  "02.jpg": {
   "title": "Ramyeon 1.jpg",
@@ -27,7 +27,7 @@
   "source": "Wikimedia Commons",
   "width": 945,
   "height": 629,
-  "used": false
+  "used": true
  },
  "06.jpg": {
   "title": "Ramyeon 2.jpg",
@@ -37,6 +37,6 @@
   "source": "Wikimedia Commons",
   "width": 945,
   "height": 629,
-  "used": false
+  "used": true
  }
 }
