@@ -1,4 +1,0 @@
-usk/photos/nvda-p100-a.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nvidia%4016nm%40Pascal%40GP100%40Tesla_P100%40T_Taiwan_1912A1_PN9G70.S6W_GP100-897-A1_DSC07479-DSC07596.jpg/1920px-Nvidia%4016nm%40Pascal%40GP100%40Tesla_P100%40T_Taiwan_1912A1_PN9G70.S6W_GP100-897-A1_DSC07479-DSC07596.jpg
-usk/photos/nvda-p100-b.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Nvidia%4016nm%40Pascal%40GP100%40Tesla_P100%40T_Taiwan_1912A1_PN9G70.S6W_GP100-897-A1_DSC06945-DSC06993.jpg/1920px-Nvidia%4016nm%40Pascal%40GP100%40Tesla_P100%40T_Taiwan_1912A1_PN9G70.S6W_GP100-897-A1_DSC06945-DSC06993.jpg
-usk/photos/tsmc-fab18.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TSMC_Fab_18_May_2025.jpg/1920px-TSMC_Fab_18_May_2025.jpg
-usk/photos/server-rack-nersc.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Technician_with_laptop_working_on_server_rack_at_NERSC.jpg/1920px-Technician_with_laptop_working_on_server_rack_at_NERSC.jpg
