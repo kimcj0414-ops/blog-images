@@ -1,0 +1,57 @@
+/* ===== Kimbaksa editorial look (start) ===== */
+body{background:#fcfbf8 !important;color:#1a1a17;}
+.bg-photo-container,.bg-photo-overlay,.bg-photo{display:none !important;background:none !important;}
+.centered-top-container,.centered-top-container.sticky{background:#fcfbf8 !important;box-shadow:none !important;border-bottom:1px solid #dcd9d0;}
+.centered-top-container .Header h1,.centered-top-container .Header h1 a,.centered-top-container .Header p{color:#1a1a17 !important;}
+.centered-top-container svg,.centered-top-container .svg-icon-24,.svg-icon-24{fill:#1a1a17 !important;}
+.post-outer-container{background:#fcfbf8 !important;border-radius:0 !important;box-shadow:none !important;border:0 !important;border-top:1px solid #1a1a17 !important;}
+.blog-posts .post-outer-container{border-top-color:#1a1a17 !important;}
+.post-title,.post-title a{font-family:'Noto Serif KR',Georgia,serif !important;color:#1a1a17 !important;font-weight:700 !important;letter-spacing:-0.01em;}
+.post-header,.byline,.post-footer,.byline a{color:#6b6a63 !important;font-family:'Pretendard',-apple-system,'Noto Sans KR',sans-serif !important;}
+.post-body{font-family:'Pretendard',-apple-system,'Noto Sans KR',sans-serif !important;color:#1a1a17 !important;}
+.post-labels a,.post-footer .byline.post-labels a,.labels-content a{background:none !important;border:0 !important;border-radius:0 !important;color:#1f3a2e !important;text-decoration:underline;text-underline-offset:3px;padding:0 10px 0 0 !important;box-shadow:none !important;}
+.jump-link a,.flat-button{background:none !important;color:#1f3a2e !important;border:1px solid #1f3a2e !important;border-radius:0 !important;box-shadow:none !important;}
+.jump-link a:hover,.flat-button:hover{background:#1f3a2e !important;color:#fcfbf8 !important;}
+.sidebar-container,.sidebar-container .sidebar_top_wrapper,.sidebar_top_wrapper{background:#fcfbf8 !important;background-image:none !important;}
+.sidebar-container .widget .title,.sidebar-container h3{font-family:'Noto Serif KR',Georgia,serif !important;color:#1a1a17 !important;}
+.widget,.widget a{color:#1a1a17;}
+.widget a{color:#1f3a2e;}
+.footer,.Attribution,.Attribution a{color:#6b6a63 !important;}
+a{color:#1f3a2e;}
+/* ===== Kimbaksa editorial look (end) ===== */
+
+.post-body .kb{font-family:'Pretendard',-apple-system,BlinkMacSystemFont,'Apple SD Gothic Neo','Noto Sans KR',sans-serif;color:#1a1a17;font-size:17px;line-height:1.8;word-break:keep-all;}
+.post-body .kb p{margin:0 0 1.1em;}
+.post-body .kb b{font-weight:700;color:#1a1a17;}
+.post-body .kb a{color:#1f3a2e;text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:3px;}
+.post-body .kb a:hover{text-decoration-thickness:2px;}
+.post-body .kb h2{font-family:'Noto Serif KR',Georgia,serif;font-weight:700;font-size:28px;line-height:1.35;color:#1a1a17;margin:64px 0 18px;padding:14px 0 0;border:0;border-top:1px solid #1a1a17;background:none;letter-spacing:-0.01em;}
+.post-body .kb .kick{font-size:12px;font-weight:700;letter-spacing:.16em;color:#1f3a2e;margin:64px 0 6px;padding-top:14px;border-top:1px solid #1a1a17;}
+.post-body .kb .kick + h2{margin-top:0;padding-top:0;border-top:0;}
+.post-body .kb h3{font-family:'Pretendard',-apple-system,'Noto Sans KR',sans-serif;font-size:19px;font-weight:700;color:#1a1a17;margin:36px 0 12px;padding:0;border:0;background:none;}
+.post-body .kb .tbl{overflow-x:auto;margin:18px 0 22px;}
+.post-body .kb table{width:100%;border-collapse:collapse;font-size:15px;line-height:1.55;border:0;border-top:2px solid #1a1a17;background:none;}
+.post-body .kb th{text-align:left;font-weight:700;padding:10px 12px;border:0;border-bottom:1px solid #1a1a17;background:none;color:#1a1a17;vertical-align:bottom;}
+.post-body .kb td{padding:10px 12px;border:0;border-bottom:1px solid #dcd9d0;vertical-align:top;background:none;color:#1a1a17;}
+.post-body .kb tr.hl td{font-weight:700;}
+.post-body .kb tr.hl td:first-child{box-shadow:inset 3px 0 0 #1f3a2e;}
+.post-body .kb .note{font-size:13.5px;color:#6b6a63;line-height:1.65;}
+.post-body .kb ul,.post-body .kb ol{padding-left:1.3em;margin:0 0 1.2em;}
+.post-body .kb li{margin:0 0 .6em;}
+.post-body .kb .pull{margin:30px 0;padding:2px 0 2px 20px;border:0;border-left:2px solid #1f3a2e;font-family:'Noto Serif KR',Georgia,serif;font-size:21px;line-height:1.65;color:#1a1a17;font-style:normal;background:none;quotes:none;}
+.post-body .kb .pull:before,.post-body .kb .pull:after{content:none;}
+.post-body .kb .fig{margin:26px 0;}
+.post-body .kb img{border-radius:0 !important;box-shadow:none !important;max-width:100%;}
+.post-body .kb .fig img,.post-body .kb .cover img,.post-body .kb .chart img{width:100%;height:auto;display:block;}
+.post-body .kb .cover,.post-body .kb .chart{margin:0 0 24px;}
+.post-body .kb figcaption{font-size:13px;color:#6b6a63;margin-top:8px;letter-spacing:.02em;text-align:left;line-height:1.6;}
+.post-body .kb .pricebox{background:#1f3a2e;color:#fcfbf8;padding:24px 28px;margin:18px 0 20px;}
+.post-body .kb .pricebox p{margin:0;color:#fcfbf8;}
+.post-body .kb .pb-main{font-family:'Noto Serif KR',Georgia,serif;font-size:21px;line-height:1.55;font-weight:700;}
+.post-body .kb .pb-sub{font-size:14px;margin-top:12px !important;padding-top:12px;border-top:1px solid rgba(252,251,248,.24);}
+.post-body .kb .disclaimer{border-top:1px solid #dcd9d0;margin-top:40px;padding-top:16px;font-size:13.5px;color:#6b6a63;line-height:1.7;}
+.post-body .kb .disclaimer p{margin:0 0 6px;color:#6b6a63;}
+.post-body .kb .disclaimer b{color:#1a1a17;}
+.post-body .kb .sources{font-size:14px;line-height:1.7;}
+.post-body .kb .sources li{margin:0 0 .3em;}
+@media (max-width:720px){.post-body .kb{font-size:16px;}.post-body .kb h2{font-size:23px;margin-top:52px;}.post-body .kb .kick{margin-top:52px;}.post-body .kb table{font-size:14px;}.post-body .kb th,.post-body .kb td{padding:9px 8px;}.post-body .kb .pull{font-size:18px;}.post-body .kb .pb-main{font-size:18px;}}
