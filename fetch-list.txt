@@ -1,6 +1,0 @@
-usk/photos/wocc-atlanta.jpg https://upload.wikimedia.org/wikipedia/commons/6/6e/2013.01.26.104617_World_of_Coca_Cola_Atlanta_Georgia.jpg
-usk/photos/wocc-atlanta-2.jpg https://upload.wikimedia.org/wikipedia/commons/2/22/2013.01.26.113703_World_of_Coca_Cola_Atlanta_Georgia.jpg
-usk/photos/ko-bottling-line-1940s.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Coca-Cola_bottling_line._Fort_Scott%2C_Kans_-_NARA_-_283618.jpg/1920px-Coca-Cola_bottling_line._Fort_Scott%2C_Kans_-_NARA_-_283618.jpg
-usk/photos/ko-truck-houston.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Coca-Cola_truck_in_Houston.jpg/1920px-Coca-Cola_truck_in_Houston.jpg
-usk/photos/ko-bottles-alaska.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Coca-Cola_Bottles_Alaska_2010.jpg/1920px-Coca-Cola_Bottles_Alaska_2010.jpg
-usk/photos/ko-bottles.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Coca-Cola_bottles_%2827962750037%29.jpg/1920px-Coca-Cola_bottles_%2827962750037%29.jpg
