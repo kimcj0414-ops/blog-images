@@ -7,7 +7,7 @@
   "source": "Wikimedia Commons",
   "width": 1280,
   "height": 960,
-  "used": false
+  "used": true
  },
  "01.jpg": {
   "title": "Seoul-Metropolitan-Rapid-Transit-7-Ttukseom-resort-station-platform.jpg",
@@ -37,6 +37,6 @@
   "source": "Wikimedia Commons",
   "width": 1280,
   "height": 622,
-  "used": false
+  "used": true
  }
 }
